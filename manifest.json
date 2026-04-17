@@ -1,1 +1,1 @@
-{"version": "1.6.0", "release_notes": "Rebrand model to SmartVan.io, switch to web_server_base"}
+{"version": "1.6.1-beta", "release_notes": "Add OTA progress reporting (download/flash percentage in HA UI)"}
