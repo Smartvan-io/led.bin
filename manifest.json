@@ -1,1 +1,1 @@
-{"version": "1.6.1-beta", "release_notes": "Add OTA progress reporting (download/flash percentage in HA UI)"}
+{"version": "2.0.0", "release_notes": "v2 release — addon-managed setup; MQTT-based; BLE provisioning"}
